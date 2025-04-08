@@ -35,7 +35,6 @@
 [![discord logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discord.gg/QWK294ZYeu)
 [![telegram logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://t.me/Hramchiks)
 
-
 ###
 
 <br clear="both">
