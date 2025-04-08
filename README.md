@@ -29,7 +29,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://www.youtube.com/@HramOfficial">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" style="border: none;" />
   </a>
@@ -46,8 +46,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" style="border: none;" />
   </a>
 </div>
-
-
 
 ###
 
