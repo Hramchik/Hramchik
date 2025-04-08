@@ -29,23 +29,12 @@
 
 ###
 
-<div align="right">
-  <a href="https://www.youtube.com/@HramOfficial">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" border="0" />
-  </a>
-  <a href="https://www.twitch.tv/hramz_">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo" border="0" />
-  </a>
-  <a href="https://gitlab.com/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo" border="0" />
-  </a>
-  <a href="https://discord.gg/QWK294ZYeu">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" border="0" />
-  </a>
-  <a href="https://t.me/Hramchiks">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" border="0" />
-  </a>
-</div>
+[![youtube logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://www.youtube.com/@HramOfficial)
+[![twitch logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg)](https://www.twitch.tv/hramz_)
+[![gitlab logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg)](https://gitlab.com/)
+[![discord logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg)](https://discord.gg/QWK294ZYeu)
+[![telegram logo](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg)](https://t.me/Hramchiks)
+
 
 ###
 
